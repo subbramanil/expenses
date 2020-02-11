@@ -40,12 +40,15 @@ ext {
     testRunnerVersion = '1.2.0'
     testRulesVersion = '1.2.0'
 
+    calendarVersion = '0.3.2'
+
     appDependencies = [
             "appCompat"               : "androidx.appcompat:appcompat:${appCompatVersion}",
             "constraintLayout"        : "androidx.constraintlayout:constraintlayout:${constraintLayoutVersion}",
             "coreKtx"                 : "androidx.core:core-ktx:${coreKtxVersion}",
             "coroutinesAndroid"       : "org.jetbrains.kotlinx:kotlinx-coroutines-android:${coroutinesVersion}",
             "coroutinesCore"          : "org.jetbrains.kotlinx:kotlinx-coroutines-core:${coroutinesVersion}",
+            "customCalendar"          : "com.github.kizitonwose:CalendarView:${calendarVersion}",
             "firebaseAuth"            : "com.google.firebase:firebase-auth:${firebaseAuthVersion}",
             "firebaseConfig"          : "com.google.firebase:firebase-config:${firebaseConfigVersion}",
             "firebaseCore"            : "com.google.firebase:firebase-core:${firebaseCoreVersion}",

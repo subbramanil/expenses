@@ -131,6 +131,7 @@ dependencies {
     implementation dependencies.rxKotlin
     implementation dependencies.rxRelay
     implementation dependencies.threeTen
+    implementation dependencies.customCalendar
 
     // Testing
     testImplementation testDependencies.jUnit
