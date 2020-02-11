@@ -1,0 +1,3 @@
+package com.nominalista.expenses.expensehistory.presentation
+
+interface ExpenseHistoryItemModel

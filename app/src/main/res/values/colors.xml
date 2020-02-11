@@ -4,6 +4,15 @@
     <color name="expenses_blue_dark">#3E76D5</color>
     <color name="expenses_red">#E44343</color>
 
+    <color name="black">#000</color>
+    <color name="brown_700">#5D4037</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="custom_cal_green">#008489</color>
+    <color name="custom_cal_bg_color">#1B1B1B</color>
+    <color name="custom_cal_toolbar_color">#282828</color>
+    <color name="custom_cal_text_grey">#bdbdbd</color>
+    <color name="custom_cal_text_grey_light">#616161</color>
+
     <color name="background_light">#FFFFFF</color>
     <color name="background_light_2dp">#F0F0F0</color> <!-- 6% black on background light -->
     <color name="background_light_4dp">#EBEBEB</color> <!-- 8% black on background light -->
